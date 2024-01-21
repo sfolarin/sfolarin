@@ -1,4 +1,4 @@
-👋 Hi, I'm Folarin Shola, a DevOps Engineer with 5+ years of experience. I hold two master's degrees – one in Applied Physics from the University of South Florida (USA) and another from the African University of Science and Technology (2019).
+👋 Hi, I'm Folarin Shola, a DevOps Engineer with 5+ years of experience. I hold two master's degrees – one in Applied Physics from the University of South Florida (USA) and another from the African University of Science and Technology (Nigeria).
 
 I specialize in:
 
